@@ -144,8 +144,3 @@ Edit
 streamlit run app.py
 📞 Contact
 For queries or collaboration, feel free to contact:
-
-Bilal Bashir — 22i-1901
-
-Riyyan Ahmad — 22i-2069
-
